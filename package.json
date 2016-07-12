@@ -1,0 +1,15 @@
+{
+  "name": "special-speller",
+  "version": "1.0.0",
+  "description": "Spelling corrector for special words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petestreet/special-speller"
+  },
+  "author": "Alex Peterson",
+  "license": "MIT"
+}
