@@ -1,5 +1,9 @@
 # Spelling corrector for special words
 
+NOTE: this package is old and deprecated. Use the new [Mistyep](https://www.npmjs.com/package/mistyep) package instead.
+
+---
+
 [Check out the demo](http://petestreet.github.io/physical-keys-autocorrector/)
 
 ### Installation
